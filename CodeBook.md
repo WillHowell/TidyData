@@ -19,18 +19,18 @@ For each record it is provided:
 
 Features in this data set:
 
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z
-tBodyAcc-std()-X
-tBodyAcc-std()-Y
-tBodyAcc-std()-Z
-tGravityAcc-mean()-X
-tGravityAcc-mean()-Y
-tGravityAcc-mean()-Z
-tGravityAcc-std()-X
-tGravityAcc-std()-Y
-tGravityAcc-std()-Z
+- tBodyAcc-mean()-X
+- tBodyAcc-mean()-Y
+- tBodyAcc-mean()-Z
+- tBodyAcc-std()-X
+- tBodyAcc-std()-Y
+- tBodyAcc-std()-Z
+- tGravityAcc-mean()-X
+- tGravityAcc-mean()-Y
+- tGravityAcc-mean()-Z
+- tGravityAcc-std()-X
+- tGravityAcc-std()-Y
+- tGravityAcc-std()-Z
 
 - - -
 
