@@ -22,7 +22,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 4. Use the setwd() command to set the working directory to that of the extracted folder (hint, this is the same folder that contains the activity_labels.txt)
 
-5. StartProcess() in the R console.  The script will generate TidyData.txt, a tab-delimited file to be used for further study of the sensor data.  See CodeBook.md in this repo for information on the data structure of this table.
+5. StartProcess() in the R console.  The script will generate TidyData.txt, a tab-delimited file to be used for further study of the sensor data.  See CodeBook.md in this repo for information on the data structure of this table.  The generated table is a *tab delimited* file.
 
 - - -
 

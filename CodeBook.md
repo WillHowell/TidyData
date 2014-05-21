@@ -4,7 +4,8 @@ This data set is derived from the Samsung smart phone sensor data from the Cente
 
 It has been hyphothesized that formulas can be created that only use these values to determine a user activity from smart phone sensor readings within a 95% confidence interval.
 
-The dataset generated with this script include just one table, in the file:
+The dataset generated with this script includes just one table, in the file listed below.  This file is a *tab delimited* file.  
+
 =========================================
 
 - TidyData.txt
