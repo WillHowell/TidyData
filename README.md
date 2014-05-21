@@ -1,7 +1,10 @@
 # Creating Tidy Data
+
 - - -
 
 There is one R script in this repo, run_analysis.R.  This script can be run used with the Samsung smart phone sensor data set from the Center for Machine Learning and Intelligent Systems at the University of California, Irvine.
+
+That data has been subset.  It has been hyphothesized that formulas can be created that only use these values to determine a user activity from smart phone sensor readings within a 95% confidence interval.
 
 - - -
 

@@ -1,8 +1,10 @@
 # Code Book
 
-The data has been subset to only include mean and standard deviation values for accelerometer and gravity accelerometer readings.  Further study on this dataset is focused on showing that only these values are needed to determine a user activity from smart phone sensor readings with a 95% confidence interval.
+This data set is derived from the Samsung smart phone sensor data from the Center for Machine Learning and Intelligent Systems at the University of California, Irvine.  The data has been subset to only include mean and standard deviation values for accelerometer and gravity accelerometer readings.  
 
-The dataset generated with this script include just one file:
+It has been hyphothesized that formulas can be created that only use these values to determine a user activity from smart phone sensor readings within a 95% confidence interval.
+
+The dataset generated with this script include just one table, in the file:
 =========================================
 
 - TidyData.txt
@@ -10,9 +12,9 @@ The dataset generated with this script include just one file:
 For each record it is provided:
 ======================================
 
-- Mean values from triaxial acceleration from the accelerometer
 - Activity labels
 - Anonymous subject IDs
+- Mean values from triaxial acceleration from the accelerometer
 
 Features in this data set:
 
